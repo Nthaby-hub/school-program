@@ -1,0 +1,7 @@
+{
+  "name": "school-program",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
